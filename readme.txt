@@ -6,3 +6,4 @@ creating a  new branch and quick and simple
 --no -ff fast forward.
 git is a  free  softrware.
 bug decode 
+bug decode 
